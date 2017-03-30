@@ -39,7 +39,7 @@
     [a calcularIMC ];
     self.txtIMC.text = [NSString stringWithFormat:@"%f", a.imc];
 //    self.txtIMC.text = [NSString stringWithFormat:@"%0.2f", a.imc];
-    
+
 }
 
 @end
